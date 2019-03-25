@@ -1,0 +1,11 @@
+.h1, h2
+{
+	font-family: Arial;
+	color: olive;
+}
+
+p
+{
+	font-family: Verdana;
+	color: maroon;
+}
